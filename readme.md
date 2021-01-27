@@ -25,8 +25,7 @@ Desarrollado en Java con Eclipase.
 ## 
 # IMAGENES DEL PROYECTO
 ##
-![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20200148/blob/master/Imagenes/BaseSPM_20200148_1.jpg "trasera")
-![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20200148/blob/master/Imagenes/BaseSPM_20200148_2.jpg "frontal")
 ![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20200148/blob/master/Imagenes/BaseSPM_20200148_3.jpg "equipo")
 ![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20200148/blob/master/Imagenes/BaseSPM_20200148_4.jpg "interior")
+
 ###### publicado desde mi PC del SEGAINVEX
