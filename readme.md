@@ -16,12 +16,12 @@ Desarrollado con LabWindos/CVI con licencia para SEGAINVEX-Electrónica.
 # [SOFTWARE PARA TABLET](https://github.com/PatricioCoronado/Base-SPM-tablet)
 Desarrollado con Android Studio 4.0.1
 
-# [SOFTWARE DE PC (nuevo)](https://github.com/PatricioCoronado/Base-SPM-PC)
+# [SOFTWARE DE PC (nuevo)](https://github.com/PatricioCoronado/Base-SPM-Java)
 Desarrollado en Java con Eclipase.
 
 # [ESQUEMAS](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20200148/blob/master/Esquemas)
 
-# [MANUAL](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20191136/blob/master/Manual/Manual_Base_20200148.pdf)
+# [MANUAL](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20200148/blob/master/Manual/Manual_Base_SPM_20200148.pdf)
 ## 
 # IMAGENES DEL PROYECTO
 ##
